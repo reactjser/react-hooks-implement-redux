@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from '../myRedux';
 
-export class CountMinus extends Component {
+class CountMinus extends Component {
   render() {
     return (
       <div>
